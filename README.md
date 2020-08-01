@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![lo-b](https://circleci.com/gh/lo-b/devops-microservices.svg?style=svg)](https://github.com/lo-b/devops-microservices)
 
 ## Project Overview
 
